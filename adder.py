@@ -1,6 +1,6 @@
-def add(a,b):
+def adder(a,b):
     return a+b
 
 a=int(input("a: "))
 b=int(input("b: "))
-print(add(a,b))
+print(adder(a,b))
