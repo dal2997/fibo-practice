@@ -1,0 +1,181 @@
+    1  git config --global user.name "Bitna Kim"
+    2  git config --global user.name "dal2997"
+    3  git config --global user.email "ys2997@naver.com"
+    4  git confit -- list
+    5  git config --list
+    6  git rm --cached 눈내리는 창가_1.MP4
+    7  git config --global user.name "dal2997"
+    8  git config --global.user.email "ys2997@naver.com"
+    9  git config --list
+   10  git config --global user.name "dal2997"
+   11  git config --global user.name "ys2997@naver.com"
+   12  git config --list
+   13  pwd
+   14  cd
+   15  ls
+   16  ls -a
+   17  ls -l
+   18  ls
+   19  cd Documents
+   20  ls
+   21  mkdir dev
+   22  ls
+   23  touch main.py
+   24  touch main.java
+   25  touch server.go
+   26  touch server.go
+   27  cd dev
+   28  touch index.html
+   29  touch README.md
+   30  touch style.css
+   31  touch server.py
+   32  touch __init__.py
+   33  touch reports.docx
+   34  touch iteration.ipynb
+   35  touch closings.xlsx
+   36  ls
+   37  mkdir bin
+   38  ls
+   39  my index.html
+   40  mv index.html bin
+   41  ls .
+   42  ls bin
+   43  mv server.* bin
+   44  ls bin
+   45  mv __*.py bin
+   46  ls
+   47  mv *e.* bin
+   48  mv *ai*.* bin
+   49  cd README.md ./
+   50  cp README.md ./
+   51  cp README.md ./README_copy.md
+   52  ls
+   53  cp README.md bin
+   54  ls
+   55  ls bin
+   56  my README copy.md readme.txt
+   57  mv README_copy.md readme.txt
+   58  ls
+   59  rm iteration.ipynb
+   60  ls
+   61  rm re*.*
+   62  ls
+   63  rm README.md
+   64  rm closings.xlsx
+   65  ls
+   66  rm bin
+   67  rm -r bin
+   68  ls
+   69  touch learn-md.md
+   70  ls
+   71  {echo "$ ls"; ls; } > log.txt
+   72  python main.py^C
+   73  vi learn-md.md
+   74  vi learn-md.md
+   75  ls > output.txt
+   76  history >history.txt
+   77  script -a session.log
+   78  your_command 1>&1 | tee -a session.log
+   79  got status 2>&1 | tee -a session.log
+   80  pacman -S util-linux
+   81  mkdir sample
+   82  cd sample
+   83  touch README.md
+   84  vi README.md
+   85  touch main.py
+   86  vi main.py
+   87  vi README.md
+   88  history >history.txt
+   89  2>&1 | tee -a session.log
+   90  cd
+   91  cd Documents/dev/
+   92  ls
+   93  git config --global user.name "dal2997"
+   94  git config --global user.email "ys2997@naver.com"
+   95  git config --global core.editor "vim"
+   96  git config --global core.pager 
+   97  git config --global core.pager "cat"
+   98  git config --list
+   99  vi ~/.gitconfig
+  100  git clone git@github.com:dal2997/first-repo.git
+  101  git clone https://github.com/dal2997/first-repo.git
+  102  ls
+  103  cd first-repo/
+  104  git status
+  105  touch name.py
+  106  ls
+  107  git status
+  108  vi main.py
+  109  git status
+  110  git add main.py
+  111  git status
+  112  rm name.py
+  113  git status
+  114  git commit
+  115  git commit
+  116  git commit
+  117  git add main.py
+  118  git status
+  119  git commit
+  120  vi main.py
+  121  git add .
+  122  git commit
+  123  git commit
+  124  git push origin main
+  125  vi README.md
+  126  git status
+  127  git add README.md
+  128  git status
+  129  git commit
+  130  git push origin main
+  131  vi README.md
+  132  vi main.py
+  133  git status
+  134  git add README.md
+  135  git status
+  136  git commit
+  137  git status
+  138  git add main.py
+  139  git status
+  140  git commit
+  141  git status
+  142  git push origin main
+  143  git remote -v
+  144  git remote
+  145  cd
+  146  cd /Documents/dev
+  147  cd Documents/dev
+  148  git clone https://github.com/dal2997/fibo-practice.git
+  149  ls
+  150  cs fibo-practice
+  151  touch README.md
+  152  ls
+  153  vi README.md
+  154  touch fibo-first.py
+  155  vi fibo-first.py
+  156  git status
+  157  cd fibo-first.py fibo-practice
+  158  mv README.md fibo-practice/
+  159  mv fibo-first.py fibo-practice/
+  160  cd fibo-practice
+  161  ls
+  162  git status
+  163  git add README.md
+  164  git commit
+  165  gis status
+  166  git status
+  167  git add fibo-first.py
+  168  git commit
+  169  gis status
+  170  git push origin main
+  171  python fibo-first.py
+  172  vi fibo-first.py
+  173  python fibo-first.py
+  174  git add fibo-first.py
+  175  git commit
+  176  vi README.md
+  177  git add README.md
+  178  git commit
+  179  git push origin main
+  180  git status
+  181  history > history.txt
